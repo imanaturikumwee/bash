@@ -99,3 +99,4 @@ ls --color=auto -y
 help test
 __vsc_prompt_cmd_original
 [[ -a countdown.sh ]]
+[[ -a bad_file.txt ]]
