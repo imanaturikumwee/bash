@@ -127,3 +127,4 @@ printenv
 __vsc_prompt_cmd_original
 echo $LANG
 declare -p
+echo $RANDOM
