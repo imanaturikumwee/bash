@@ -32,3 +32,7 @@ which bash
 ./questionnaire
 ./questionnaire.sh
 ls --color=auto -l
+ls --color=auto -a l
+__vsc_prompt_cmd_original
+ls --color=auto -al
+chmod +x questionnaire.sh
