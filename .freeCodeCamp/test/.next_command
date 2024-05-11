@@ -83,3 +83,5 @@ ech $?
 echo $?
 [[ 4 -le 5 ]]
 echo $?
+__vsc_prompt_cmd_original
+[[ 4 -ge 5 ]]
