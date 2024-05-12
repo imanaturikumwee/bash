@@ -179,3 +179,4 @@ help until
 ./fortune.sh yes
 help [[
 [[ "hello" == "hello" ]]
+[[ "hello" == "world" ]]
