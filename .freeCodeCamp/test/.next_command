@@ -186,3 +186,4 @@ help [[
 [[ "hello world" =~ ^h.+d$ ]]
 [[ "hello world" =~ ^ ]]
 VAR="hello world"
+echo $VAR
