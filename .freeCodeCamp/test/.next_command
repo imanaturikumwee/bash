@@ -197,3 +197,5 @@ echo $VAR
 touch five.sh
 chmod +x five.sh
 ./five.sh
+__vsc_prompt_cmd_original
+clear
